@@ -1,0 +1,7 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Logica\bin\Debug\Logica.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Logica\bin\Debug\Logica.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Logica\bin\Debug\Entidades.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Logica\bin\Debug\Entidades.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Logica\obj\Debug\Logica.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Logica\obj\Debug\Logica.pdb

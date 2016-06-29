@@ -1,0 +1,10 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Presentacion\bin\Debug\Presentacion.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Presentacion\bin\Debug\Presentacion.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Presentacion\bin\Debug\Presentacion.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Presentacion\bin\Debug\Entidades.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Presentacion\bin\Debug\Logica.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Presentacion\bin\Debug\Entidades.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Presentacion\bin\Debug\Logica.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Presentacion\obj\Debug\Presentacion.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\Presentacion\obj\Debug\Presentacion.pdb

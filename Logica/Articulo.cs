@@ -36,7 +36,7 @@ namespace Logica
             count = pListaArticulos.Count;
 
             return count;
-        } 
+        }
 
         /// <summary>
         /// Metodo que devuelve el promedio de precios entre todos los articulos de una lista
@@ -50,7 +50,7 @@ namespace Logica
         {
             double promedio = 0;
 
-            foreach(var articulo in pListaArticulos)
+            foreach (var articulo in pListaArticulos)
             {
                 promedio += articulo.Precio;
             }
@@ -68,14 +68,37 @@ namespace Logica
             List<Entidades.Articulo> tempListaArticulos = new List<Entidades.Articulo>();
             double promedio = CalcularPromedio(pListaArticulos);
 
-            foreach(var articulo in pListaArticulos)
+            foreach (var articulo in pListaArticulos)
             {
-                if(articulo.Precio > promedio)
+                if (articulo.Precio > promedio)
                 {
                     tempListaArticulos.Add(articulo);
                 }
             }
             return tempListaArticulos;
+        }
+        //TODO Ver cuando veamos LINQ
+        // var precio = from p in pLista
+        //  where p.codigo == p.Codigo
+        //      select new(p.Precio)
+        /// <summary>
+        /// Este metodo devuelve el precio de un articulo segun su codigo
+        /// </summary>
+        /// <param name="pCodigo">Entero que representa el codigo del articulo</param>
+        /// <param name="pListaArticulos">Lista de articulos</param>
+        /// <returns></returns>
+        public static double DevolverPrecio(int pCodigo, List<Entidades.Articulo> pListaArticulos)
+        {
+            double precio = -1;
+            foreach (var articulo in pListaArticulos)
+            {
+                if (articulo.Codigo == pCodigo)
+                {
+                    precio = articulo.Precio;
+                    break;
+                }
+            }
+            return precio;
         }
     }
 }
