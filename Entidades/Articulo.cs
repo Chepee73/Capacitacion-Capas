@@ -65,5 +65,15 @@ namespace Entidades
                 stock = value;
             }
         }
+
+        public Articulo() { }
+
+        public Articulo(int pCodigo, string pNombre, double pPrecio, int pStock)
+        {
+            Codigo = pCodigo;
+            Nombre = pNombre;
+            Precio = pPrecio;
+            Stock = pStock;
+        }
     }
 }

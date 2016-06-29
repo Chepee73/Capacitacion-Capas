@@ -1,0 +1,8 @@
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\PresentacionKiosko\bin\Debug\PresentacionKiosko.exe.config
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\PresentacionKiosko\bin\Debug\PresentacionKiosko.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\PresentacionKiosko\bin\Debug\PresentacionKiosko.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\PresentacionKiosko\bin\Debug\Entidades.dll
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\PresentacionKiosko\bin\Debug\Entidades.pdb
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\PresentacionKiosko\obj\Debug\PresentacionKiosko.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\PresentacionKiosko\obj\Debug\PresentacionKiosko.exe
+c:\users\alumno\documents\visual studio 2015\Projects\Solution1\PresentacionKiosko\obj\Debug\PresentacionKiosko.pdb
